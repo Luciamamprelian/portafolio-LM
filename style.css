@@ -45,7 +45,7 @@
 }
 
 #imagen {
-    width: 30%;
+    width: 85%;
     margin: 2em;
     padding: .5em;
     mask-image: linear-gradient(black 80%, transparent);
